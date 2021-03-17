@@ -14,6 +14,10 @@ $(function () {
         $body.removeClass('open');
     });
 
+    $('.open #gnav_menu_list').on('click', function () {
+        $body.removeClass('open');
+    });
+
 });
 
 //ヘッダーメニューオープン
@@ -38,6 +42,7 @@ $(document).on('ready', function() {
       infinite: true, // スライドのループを有効にするか
       // autoplay: true,
       dots: true,
+      swipe: true,
       slidesToShow: 1, // 表示するスライド数を設定
       slidesToScroll: 1, // スクロールするスライド数を設定
   
@@ -49,6 +54,7 @@ $(document).on('ready', function() {
       infinite: true, // スライドのループを有効にするか
       // autoplay: true,
       dots: true,
+      swipe: true,
       slidesToShow: 1, // 表示するスライド数を設定
       slidesToScroll: 1, // スクロールするスライド数を設定
   

@@ -1471,6 +1471,7 @@ main .cases__list__item__contents__img {
         -ms-flex-pack: center;
             justify-content: center;
     width: 100%;
+    height: auto;
   }
 }
 
