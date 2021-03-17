@@ -43,6 +43,7 @@ $(document).on('ready', function() {
       // autoplay: true,
       dots: true,
       swipe: true,
+      swipeToSlide: true,
       slidesToShow: 1, // 表示するスライド数を設定
       slidesToScroll: 1, // スクロールするスライド数を設定
   
@@ -55,6 +56,7 @@ $(document).on('ready', function() {
       // autoplay: true,
       dots: true,
       swipe: true,
+      swipeToSlide: true,
       slidesToShow: 1, // 表示するスライド数を設定
       slidesToScroll: 1, // スクロールするスライド数を設定
   

@@ -1486,6 +1486,12 @@ main .cases__list__item__contents__img img {
   }
 }
 
+@media screen and (max-width: 425px) {
+  main .cases__list__item__contents__img img {
+    max-height: 125px !important;
+  }
+}
+
 main .cases__list__item__contents__text {
   width: 63%;
 }
@@ -2171,8 +2177,20 @@ main .companyProfile__list__item.col-2 dt {
   width: 23%;
 }
 
+@media screen and (max-width: 425px) {
+  main .companyProfile__list__item.col-2 dt {
+    width: 32%;
+  }
+}
+
 main .companyProfile__list__item.col-2 dd {
   width: 67%;
+}
+
+@media screen and (max-width: 425px) {
+  main .companyProfile__list__item.col-2 dd {
+    width: 65%;
+  }
 }
 
 main .companyProfile__list__item:first-child {

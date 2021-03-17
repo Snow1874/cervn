@@ -601,6 +601,9 @@ main .cases {
             @include tb {
               width: 50%;
             }
+            @include sp {
+              max-height: 125px !important;
+            }
           }
         }
         &__text {
@@ -1080,9 +1083,15 @@ main .companyProfile {
       }
       dt {
         width: 23%;
+        @include sp {
+          width: 32%;
+        }
       }
       dd {
         width: 67%;
+        @include sp {
+          width: 65%;
+        }
       }
     }
     &__item:first-child {
