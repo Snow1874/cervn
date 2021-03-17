@@ -1,0 +1,57 @@
+$pc: 1440px;
+$lt: 1024px;
+$tb: 768px;
+$sp: 425px;
+
+.font-hirasan400 {
+  font-family: "Hiragino Sans W4", "Hiragino Sans", sans-serif;
+  font-weight: 400;
+}
+
+.font-hirasan500 {
+  font-family: "Hiragino Sans W5", "Hiragino Sans", sans-serif;
+  font-weight: 500;
+}
+
+.font-hirapro600 {
+  font-family: "HiraKakuProN-W6", "HiraKakuProN", sans-serif;
+  font-weight: 600;
+}
+
+.font-normal {
+  font-family: "HiraKakuProN-W3", "HiraKakuProN", "Hiragino Sans W5",
+    "Hiragino Sans", sans-serif;
+  font-weight: normal;
+}
+
+$color-green: #1bb69f;
+
+@mixin lg {
+  @media screen and (min-width: 1500px) {
+    @content;
+  }
+}
+
+@mixin pc {
+  @media screen and (max-width: ($pc)) {
+    @content;
+  }
+}
+
+@mixin lt {
+  @media screen and (max-width: ($lt)) {
+    @content;
+  }
+}
+
+@mixin tb {
+  @media screen and (max-width: ($tb)) {
+    @content;
+  }
+}
+
+@mixin sp {
+  @media screen and (max-width: ($sp)) {
+    @content;
+  }
+}

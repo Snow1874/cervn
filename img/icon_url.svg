@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="37.757" height="39.513" viewBox="0 0 37.757 39.513">
+  <g id="グループ_328" data-name="グループ 328" transform="translate(-188.387 -141.126)">
+    <path id="パス_7449" data-name="パス 7449" d="M213,143.922a2.213,2.213,0,0,0-2.212-2.218l-19.6-.027a2.214,2.214,0,0,0-2.217,2.212l0,2.658,24.025.016Z" transform="translate(0.011 0)" fill="#1bb69f" stroke="#4c5c59" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.1"/>
+    <path id="パス_7450" data-name="パス 7450" d="M188.937,169.387a2.215,2.215,0,0,0,2.213,2.218l18.514.025a3.287,3.287,0,0,0,3.3-3.282l.005-3.491-24.022-.019Z" transform="translate(0 8.459)" fill="#1bb69f" stroke="#4c5c59" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.1"/>
+    <line id="線_51" data-name="線 51" x2="5.369" transform="translate(198.288 176.568)" fill="none" stroke="#4c5c59" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.1"/>
+    <path id="パス_7451" data-name="パス 7451" d="M200.422,152.55v-3.484H213L213,145.26l-24.026-.017-.036,26.752,24.021.019.006-3.822H200.422Z" transform="translate(0.002 1.303)" fill="none" stroke="#4c5c59" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.1"/>
+    <path id="パス_7452" data-name="パス 7452" d="M197.351,150.595v15.642h25.17V150.595Z" transform="translate(3.073 3.257)" fill="#fffbed" stroke="#4c5c59" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.1"/>
+    <path id="パス_7453" data-name="パス 7453" d="M209.926,148.043H197.351v3.484h25.17v-3.484Z" transform="translate(3.073 2.325)" fill="#1bb69f" stroke="#4c5c59" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.1"/>
+    <g id="グループ_320" data-name="グループ 320" transform="translate(203.702 157.33)">
+      <line id="線_52" data-name="線 52" x2="5.648" fill="#fff" stroke="#4c5c59" stroke-linejoin="round" stroke-width="1.1"/>
+      <line id="線_53" data-name="線 53" x2="5.648" transform="translate(2.824 5.189)" fill="#fff" stroke="#4c5c59" stroke-linejoin="round" stroke-width="1.1"/>
+      <line id="線_54" data-name="線 54" x1="11.297" transform="translate(5.648 2.585)" fill="#fff" stroke="#4c5c59" stroke-linejoin="round" stroke-width="1.1"/>
+      <line id="線_55" data-name="線 55" x2="5.648" transform="translate(0 7.793)" fill="#fff" stroke="#4c5c59" stroke-linejoin="round" stroke-width="1.1"/>
+      <line id="線_56" data-name="線 56" x1="4.391" transform="translate(2.824 2.585)" fill="#fff" stroke="#4c5c59" stroke-linejoin="round" stroke-width="1.1" stroke-dasharray="1 1"/>
+    </g>
+    <g id="グループ_327" data-name="グループ 327" transform="translate(219.833 151.482)">
+      <g id="グループ_322" data-name="グループ 322">
+        <g id="グループ_321" data-name="グループ 321">
+          <path id="パス_7454" data-name="パス 7454" d="M212.823,148.859h-1.255v1.255h1.255v-1.255Z" transform="translate(-211.568 -148.859)" fill="#4c5c59"/>
+        </g>
+      </g>
+      <g id="グループ_324" data-name="グループ 324" transform="translate(1.677)">
+        <g id="グループ_323" data-name="グループ 323">
+          <path id="パス_7455" data-name="パス 7455" d="M214.052,148.859H212.8v1.255h1.255v-1.255Z" transform="translate(-212.797 -148.859)" fill="#4c5c59"/>
+        </g>
+      </g>
+      <g id="グループ_326" data-name="グループ 326" transform="translate(3.348)">
+        <g id="グループ_325" data-name="グループ 325">
+          <path id="パス_7456" data-name="パス 7456" d="M215.276,148.859h-1.255v1.255h1.255v-1.255Z" transform="translate(-214.021 -148.859)" fill="#4c5c59"/>
+        </g>
+      </g>
+    </g>
+    <line id="線_57" data-name="線 57" x1="4.148" y2="4.148" transform="translate(196.275 146.563)" fill="#fff" stroke="#4c5c59" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.1"/>
+    <line id="線_58" data-name="線 58" y1="2.721" x2="2.721" transform="translate(189.181 167.944)" fill="#fff" stroke="#4c5c59" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.1"/>
+    <line id="線_59" data-name="線 59" y1="6.138" x2="6.139" transform="translate(191.077 167.178)" fill="#fff" stroke="#4c5c59" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.1"/>
+  </g>
+</svg>
