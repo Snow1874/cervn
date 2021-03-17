@@ -1126,7 +1126,9 @@ main .companyProfile {
         text-align: center;
       }
       &__logo {
+        width: 117px;
         img {
+          max-width: 117px;
           @include sp {
             width: 97px;
             height: auto;

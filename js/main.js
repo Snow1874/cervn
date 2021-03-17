@@ -40,7 +40,7 @@ $(function(){
 $(document).on('ready', function() {
     $(".troubles__list.slick").slick({
       infinite: true, // スライドのループを有効にするか
-      // autoplay: true,
+      autoplay: true,
       dots: true,
       swipe: true,
       swipeToSlide: true,
@@ -53,7 +53,7 @@ $(document).on('ready', function() {
   $(document).on('ready', function() {
     $(".cases__list.slick").slick({
       infinite: true, // スライドのループを有効にするか
-      // autoplay: true,
+      autoplay: true,
       dots: true,
       swipe: true,
       swipeToSlide: true,

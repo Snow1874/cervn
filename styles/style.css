@@ -2245,6 +2245,14 @@ main .companyProfile__links {
   }
 }
 
+main .companyProfile__links__contact__logo {
+  width: 117px;
+}
+
+main .companyProfile__links__contact__logo img {
+  max-width: 117px;
+}
+
 @media screen and (max-width: 425px) {
   main .companyProfile__links__contact__logo img {
     width: 97px;
